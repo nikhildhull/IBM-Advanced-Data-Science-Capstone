@@ -3,7 +3,7 @@
 
 Hello, my name is Nikhil Dhull.
 
-This is the I B M Advanced Data Science Capstone. The dataset for this project is obtained from Kaggle, New York City job postings. I will be using this dataset to build a content-based recommending system for jobs. The use case is as the name suggests, recommend relevant jobs to individuals who satisfies certain requirements which will be shown in my Jupyter notebook. The goal of this project is to recommend jobs to someone according to one's interests, skill sets and education, etc.
+This is the IBM Advanced Data Science Capstone. The dataset for this project is obtained from Kaggle, New York City job postings. I will be using this dataset to build a content-based recommending system for jobs. The use case is as the name suggests, recommend relevant jobs to individuals who satisfies certain requirements which will be shown in my Jupyter notebook. The goal of this project is to recommend jobs to someone according to one's interests, skill sets and education, etc.
 
 In order to get there, I have done the following work. Let's begin with architectural choices. I used Apache Spark accompanied by Pandas. I originally planned to use spark data frame all the way through. Unfortunately, I was not able to complete everything I wanted to achieve. As a result, I had to switch to pandas data frame instead. The good news is that I achieved what I wanted to do with the data in a short time span thanks to the small dataset itself. In the near future, I will try to do it with spark again.
 
